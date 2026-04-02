@@ -1,0 +1,4 @@
+/* 1-style.css - Smooth scrolling behavior for html element */
+html {
+    scroll-behavior: smooth;
+}
